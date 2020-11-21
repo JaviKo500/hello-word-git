@@ -87,3 +87,15 @@ Este es una cita
 
 este ya no pertenece a la cita
 > este es otra cita
+
+# Lineas Divisoras
+Este es la linea divisora
+
+---
+Este es otro texto dividido
+
+***
+
+Otro texto dividido
+
+___
