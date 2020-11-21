@@ -80,3 +80,10 @@ function $initHighlight(block, cls) {
 | ------ | -------- | --------- |
 | Maxi   | Ari      | 01225533  |
 | Tomas  | Toms     | 02232100  |
+
+# Citas
+Este es una cita
+> Esto es una cita
+
+este ya no pertenece a la cita
+> este es otra cita
