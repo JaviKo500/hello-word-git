@@ -99,3 +99,8 @@ Este es otro texto dividido
 Otro texto dividido
 
 ___
+
+# Saltas de lineas
+Este primer parrafo.
+
+Segundo parrafo.
